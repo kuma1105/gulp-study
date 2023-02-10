@@ -1,0 +1,23 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuma1105/gulp-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuma1105/gulp-study/issues"
+  },
+  "homepage": "https://github.com/kuma1105/gulp-study#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
