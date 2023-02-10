@@ -1,23 +1,26 @@
 {
-  "name": "supergulp",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "gulp dev",
-    "build": "gulp build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kuma1105/gulp-study.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kuma1105/gulp-study/issues"
-  },
-  "homepage": "https://github.com/kuma1105/gulp-study#readme",
-  "devDependencies": {
-    "gulp": "^4.0.2"
-  }
+    "name": "supergulp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "gulp dev",
+        "build": "gulp build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kuma1105/gulp-study.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kuma1105/gulp-study/issues"
+    },
+    "homepage": "https://github.com/kuma1105/gulp-study#readme",
+    "devDependencies": {
+        "@babel/core": "^7.20.12",
+        "@babel/register": "^7.18.9",
+        "@babel/preset-env": "^7.20.2",
+        "gulp": "^4.0.2"
+    }
 }
